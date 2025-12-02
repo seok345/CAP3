@@ -86,7 +86,7 @@ wild_rift_reviews_total_40000.csv
 
 ## ✔ Wild Rift와 MLBB 월별 감성 변화
 
-<img src="image/monthly_sentiment_compare.png" width="900">
+<img src="image/monthly_sentiment_compare_fixed.png" width="900">
 
 ---
 
@@ -154,27 +154,8 @@ cap3/
  ├── combined_labeled_for_koelectra.csv
  └── *.py
 ```
-
----
-
-# 📌 9. GitHub 카드 디자인 요소
-
-### ✔ 이미지 카드  
-<div align="center">
-<img src="image/compare_card.png" width="750">
-</div>
-
-### ✔ 게임별 감정 변화 카드  
-<div align="center">
-<img src="image/sentiment_card.png" width="750">
-</div>
-
 ---
 
 ## 5. 결과 
 * **감성 분석:** 와일드 리프트(긍정 60% / 부정 40%) vs 모바일 레전드(긍정 55% / 부정 45%)
 * ![분석 결과](image/4.png)
-* **토픽 모델링 키워드:**
-    * *와일드 리프트:* 매칭, 팀운, 트롤, 라인, 재미...
-    * *모바일 레전드:* 현질, 밸런스, 스킨, 영웅, 복귀...
-    * ![키워드 화면](image/5.png)
