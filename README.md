@@ -26,7 +26,7 @@ Google Play Scraper 라이브러리를 사용해 대량 데이터를 수집했�
 
 ```
 mobile_legends_reviews_total_40000.csv
-wild_rift_reviews_20000.csv
+wild_rift_reviews_total_40000.csv
 ```
 
 이미지 자료:
