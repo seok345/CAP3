@@ -54,7 +54,7 @@ wild_rift_reviews_total_40000.csv
 
 ## ✔ 데이터 분포 시각화
 
-<img src="image/pie.png" width="600">
+<img src="image/pei.png" width="600">
 
 ## ✔ 텍스트 전처리
 
