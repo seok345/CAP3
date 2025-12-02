@@ -3,44 +3,6 @@
 
 ---
 
-# ⚠️ 주의사항  
-- **평어체(~이다, ~한다) 사용**  
-- **경어체 금지 (~입니다, ~합니다 사용 금지)**  
-- **이미지 자료 적극 활용**
-
----
-
-# 🏷 GitHub 카드 스타일 요약
-
-<div align="center">
-
-<table>
-<tr>
-<td width="45%" align="center">
-
-### 🟦 Wild Rift  
-<img src="image/wr.png" width="300">
-
-**출시(한국): 2021.10**  
-**리뷰 경향: 매칭·트롤 불만 증가**
-
-</td>
-<td width="45%" align="center">
-
-### 🟧 Mobile Legends  
-<img src="image/ml.png" width="300">
-
-**출시(한국): 2016~**  
-**리뷰 경향: 과금·밸런스 불만 증가**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 # 📌 1. 서론
 
 본 프로젝트는 Google Play Store에서 수집한  
